@@ -1,3 +1,5 @@
 # Hello World
 Primeiro repositório do curso de GIT e GITHUB.
-Professor Gustavo Guanabara * CURSOEMVIDEO *
+
+Professor Gustavo Guanabara * CURSOEMVIDEO *.
+
